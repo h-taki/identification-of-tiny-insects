@@ -7,10 +7,16 @@
   /both: pictures including both *P. striolata* and *P. atra*  
   /P.atra: pictures including *P. atra*  
   /P.striolata: pictures including *P. striolata*    
-
+  
+  
 ### Supplementary Video  
-
+  
 - S1_annotated_test_movie.mp4  
-A video with manual annotation of *P. striolata* and *P. atra* used for test data  
+Field video including manual annotations of *P. striolata* and *P. atra* used as a ground truth.
+  
+-S2_result_of_re-identification(with_classified_background).mp4  
+Video results of re-identification by the two-stage CNN method. Re-identified background objects are included.
+  
+- S3_result_of_re-identification(without_classified_background).mp4  
+Video results of re-identification by the two-stage CNN method. The insect regions are shown without background objects.
 
-- 
