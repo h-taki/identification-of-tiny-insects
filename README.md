@@ -7,3 +7,10 @@
   /both: pictures including both *P. striolata* and *P. atra*  
   /P.atra: pictures including *P. atra*  
   /P.striolata: pictures including *P. striolata*    
+
+### Supplementary Video  
+
+- S1_annotated_test_movie.mp4  
+A video with manual annotation of *P. striolata* and *P. atra* used for test data  
+
+- 
