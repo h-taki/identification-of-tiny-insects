@@ -1,6 +1,6 @@
 # identification-of-tiny-insects
 
-This repository provides original pictures and supplementary video for Takimoto et al. "Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field."
+This repository provides original pictures and supplementary video of *Phyllotreta* flea beetles for Takimoto et al. "Using a two-stage convolutional neural network to rapidly identify tiny herbivorous beetles in the field."
 
 ### Pictures
   
