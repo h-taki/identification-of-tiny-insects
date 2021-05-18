@@ -15,7 +15,7 @@ Sub-folders include
 - S1_annotated_test_movie.mp4  
 Field video including manual annotations of *P. striolata* and *P. atra* used as a ground truth.
   
--S2_result_of_re-identification(with_classified_background).mp4  
+- S2_result_of_re-identification(with_classified_background).mp4  
 Video results of re-identification by the two-stage CNN method. Re-identified background objects are included.
   
 - S3_result_of_re-identification(without_classified_background).mp4  
